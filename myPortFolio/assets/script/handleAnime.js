@@ -12,5 +12,5 @@ setTimeout(() => {
       ease: "none", // Animation easing
     },
   });
-}, 5000);
+}, 1600);
 
